@@ -1,0 +1,43 @@
+url: http://denizcanseref.com
+baseurl: 
+
+# Site settings
+title: Denizcan Şeref
+email: d@denizcanseref.com
+description: "This is Denizcan Seref's official web page"
+
+
+# Team names, titles and social links
+people:
+- name: Denizcan Şeref
+  pic: 4
+  position: Industrial Engineer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/denizcan.seref
+    - title: twitter
+      url: https://twitter.com/denizcanseref
+    - title: instagram
+      url: https://www.instagram.com/denizcanseref/
+    - title: linkedin
+      url: https://www.linkedin.com/in/denizcan-seref-82315ba2
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/denizcan.seref
+  - title: twitter
+    url: https://twitter.com/denizcanseref
+  - title: instagram
+    url: https://www.instagram.com/denizcanseref/
+  - title: linkedin
+    url: https://www.linkedin.com/in/denizcan-seref-82315ba2
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

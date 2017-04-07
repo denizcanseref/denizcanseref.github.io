@@ -1,0 +1,16 @@
+---
+title: Knauf
+subtitle: Internship
+layout: default
+modal-id: 1
+date: 2016-06-18
+img: knauf-logo-thumbnail.jpg
+thumbnail: knauf-logo-thumbnail.jpg
+alt: image-alt
+project-date: June 2016
+client: Knauf Insulation
+clienturl: http://www.knaufinsulation.com.tr
+category: Internship
+description: My summer intership on manifacturing, warehouse management, facility allocation
+
+---

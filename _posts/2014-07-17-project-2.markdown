@@ -1,0 +1,16 @@
+---
+title: Koc Ilac
+subtitle: Internship
+layout: default
+modal-id: 2
+date: 2015-07-17
+img: referanslar-43.jpg
+thumbnail: referanslar-43.jpg
+alt: image-alt
+project-date: May 2015
+client: Koc Ilac
+clienturl: http://www.kocilac.com/
+category: Internship
+description: Summer internship on supply chain management
+
+---
