@@ -11,6 +11,6 @@ project-date: June 2016
 client: Knauf Insulation
 clienturl: http://www.knaufinsulation.com.tr
 category: Internship
-description: My summer intership on manifacturing, warehouse management, facility allocation
+description: Internship on plasterboard manufacturing, warehouse management, facility allocation
 
 ---

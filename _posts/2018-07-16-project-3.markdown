@@ -1,0 +1,15 @@
+---
+title: Honor Pharmaceuticals
+subtitle: Professional Experience
+layout: default
+modal-id: 3
+date: 2016-06-18
+img: honor_pharmaceutical.png
+thumbnail: honor_pharmaceutical.png
+alt: image-alt
+project-date: June 2017
+client: Honor Pharmaceuticals
+clienturl: http://www.honor.com.tr/
+category: Professional Experience
+description: Business development, forward planning, Optimization, Advance Analytics, Forecasting, and Revenue Maximization
+---

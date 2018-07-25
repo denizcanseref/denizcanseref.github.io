@@ -1,5 +1,5 @@
 ---
-title: Koc Ilac
+title: Koc Pharmaceuticals
 subtitle: Internship
 layout: default
 modal-id: 2
@@ -8,9 +8,9 @@ img: referanslar-43.jpg
 thumbnail: referanslar-43.jpg
 alt: image-alt
 project-date: May 2015
-client: Koc Ilac
+client: Koc Pharmaceuticals
 clienturl: http://www.kocilac.com/
 category: Internship
-description: Summer internship on supply chain management
+description: Internship on supply chain management, marketing and e-commerce
 
 ---

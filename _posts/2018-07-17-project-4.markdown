@@ -1,0 +1,16 @@
+---
+title: Carlisle Inc.
+subtitle: Professional Experience
+layout: default
+modal-id: 4
+date: 2015-07-17
+img: carlisle.png
+thumbnail: carlisle.png
+alt: image-alt
+project-date: May 2018
+client: Carlisle Inc.
+clienturl: https://carlisle.com/
+category: Professional Experience
+description: Project for pond liner production at construction materials and ergonomics analysis for working environment
+
+---
