@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2016-06-18
 img: knauf-logo-thumbnail.jpg
-thumbnail: knauf-200.png
+thumbnail: knauf-200m.png
 alt: image-alt
 project-date: June 2016
 client: Knauf Insulation
