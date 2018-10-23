@@ -4,8 +4,8 @@ subtitle: IT Retail Projects
 layout: default
 modal-id: 5
 date: 2018-10-23
-img: Mercedes-Logo.jpg
-thumbnail: Mercedes_Logo_10-660x330.jpg
+img: Mercedes_Logo_10-660x330.jpg
+thumbnail: Mercedes-Logo.jpg
 alt: image-alt
 project-date: Sep 2018
 client: Mercedes-Benz Türk
