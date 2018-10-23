@@ -4,7 +4,7 @@ subtitle: Internship
 layout: default
 modal-id: 1
 date: 2016-06-18
-img: knauf-logo-thumbnail.jpg
+img: knauf-200.png
 thumbnail: knauf-logo-thumbnail.jpg
 alt: image-alt
 project-date: June 2016
