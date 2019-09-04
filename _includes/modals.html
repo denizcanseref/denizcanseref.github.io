@@ -57,7 +57,9 @@
                         <h2>{{ gitem.title }}</h2>
                         <hr class="star-primary">
                         <img src="img/gallery/{{ gitem.img }}" class="img-responsive img-centered" alt="{{ gitem.title }}">
+                        {% if gitem.description %}
                         <p>{{ gitem.description }}</p>
+                        {% endif %}
                         <ul class="list-inline item-details">
                             <li>Date:
                                 <strong>{{ gitem.date }}
